@@ -1,10 +1,10 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
+  siteTitle: "jnkyrd dog - a blog starter for GatsbyJS", // <title>
+  shortSiteTitle: "jnkyrd dog", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteUrl: "http://jnkyrd.dog",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -22,11 +22,10 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "ryan.tlonergan@gmail.ocm",
+  contactEmail: "ryan.tlonergan@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "https://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/rl0nergan" },
+    { name: "twitter", url: "https://twitter.com/ryantlonergan" }
   ]
 };
